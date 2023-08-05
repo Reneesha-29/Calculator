@@ -1,0 +1,24 @@
+﻿body
+{
+    padding:0;
+    margin:0;
+}
+
+.answer{
+    background-color:lightcyan;
+    font-size:35px;
+    width:10vw;
+}
+
+.row{
+    background-color:lightblue;
+    color:black;
+}
+.buttons{
+    background-color:aquamarine;
+    width:10vw;
+}
+
+
+
+
